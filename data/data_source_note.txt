@@ -1,1 +1,12 @@
+Data source note
 
+The original OpenPowerlifting dataset was downloaded from:
+https://openpowerlifting.gitlab.io/opl-csv/
+
+Download date: November 22, 2025.
+
+The original OpenPowerlifting dataset is publicly available from OpenPowerlifting. This repository includes the cleaned analytic dataset used in the FYP analysis.
+
+The cleaned analytic dataset was restricted to International Powerlifting Federation (IPF), Raw equipment, and SBD event records. Records were retained only if they had valid Sex, Age, BodyweightKg, Best3SquatKg, Best3BenchKg, Best3DeadliftKg, TotalKg, and Dots values.
+
+The final cleaned analytic dataset contains 10,911 observations, matching the sample size reported in the FYP report.
